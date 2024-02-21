@@ -1,6 +1,6 @@
-# marimo Plays Pong
+# marimo plays Pong
 
-A simple Pong game implementation using [Marimo](https://marimo.io) - a reactive notebook for Python. This game demonstrates how to create a basic interactive application with Marimo, featuring a self-playing pong game inspired by the retro graphic design of Pong.
+A simple Pong game implementation using [Marimo](https://marimo.io) - a reactive notebook for Python. The game is self-playing and inspired by the retro graphic design of Pong.  The goal was to experiment with `marimo.Html` and `marimo.output.replace`.
 
 ## App author/layout/design
 * [@vrtnis](https://github.com/vrtnis/)
@@ -15,7 +15,6 @@ marimo (pip install marimo)
 
 
 
-## Screenshot
 ![marimo plays pong](images/marimopong1.gif)
 
 
